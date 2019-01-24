@@ -18,13 +18,6 @@ class MovieItem: NSObject {
     }
 }
 
-//struct Movie: Codable {
-//    let Title: String
-//    let Year: String
-//    let Genre: String
-//}
-
-
 struct Movie: Codable {
     
     var title: String!
