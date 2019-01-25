@@ -96,7 +96,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Movie1" translatesAutoresizingMaskIntoConstraints="NO" id="ejH-X4-ffo">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ejH-X4-ffo">
                                 <rect key="frame" x="2" y="66" width="371" height="208.5"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="ejH-X4-ffo" secondAttribute="height" multiplier="16:9" id="fKc-fQ-yaj"/>
@@ -262,7 +262,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Movie1" width="300" height="444"/>
         <image name="no_preview" width="175" height="253"/>
     </resources>
 </document>
